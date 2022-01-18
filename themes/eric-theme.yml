@@ -1,0 +1,97 @@
+font:
+  catalog:
+    Noto Serif:
+      normal: notoserif-regular-subset.ttf
+      bold: notoserif-bold-subset.ttf
+      italic: notoserif-italic-subset.ttf
+      bold_italic: notoserif-bold_italic-subset.ttf
+    # M+ 1mn supports ASCII and the circled numbers used for conums
+    M+ 1mn:
+      normal: mplus1mn-regular-ascii-conums.ttf
+      bold: mplus1mn-bold-ascii.ttf
+      italic: mplus1mn-italic-ascii.ttf
+      bold_italic: mplus1mn-bold_italic-ascii.ttf
+    # M+ 1p supports Latin, Latin-1 Supplement, Latin Extended, Greek, Cyrillic, Vietnamese, Japanese & an assortment of symbols
+    # It also provides arrows for ->, <-, => and <= replacements in case these glyphs are missing from font
+    M+ 1p Fallback:
+      normal: mplus1p-regular-fallback.ttf
+      bold: mplus1p-regular-fallback.ttf
+      italic: mplus1p-regular-fallback.ttf
+      bold_italic: mplus1p-regular-fallback.ttf
+  fallbacks:
+    - M+ 1p Fallback
+
+base:
+  align: justify
+  font:
+    color: #000000
+    family: Noto Serif
+    size: 9
+    size_large: 9.5
+    size_small: 7
+heading:
+  font:
+    color: #4BACC6
+    family: $base_font_family
+    style: bold
+code:
+  font:
+    size: $base_font_size
+  background:
+    color: #DEDEDE
+  border:
+    color: #4BACC6
+    radius: 2
+    width: 0.5
+example:
+  background:
+    color: #FDFDFD
+  border:
+    color: #EEE
+    radius: 0
+    width: 2
+table :
+  head_background_color: #6D6E71
+  head_font_color: #FFFFFF
+  odd_row_background_color: #EDF2F2
+  border_color: #D8D8CE
+  border_width: 0.2
+description_list:
+  term_font_style: bold
+caption_align: center
+admonition:
+  border:
+    color: #4BACC6
+    width: 1
+    icon:
+      note:
+        stroke_color: #4BACC6
+      tip:
+        stroke_color: #4BACC6
+      warning:
+        stroke_color: #4BACC6
+      important:
+        stroke_color: #4BACC6
+      caution:
+        stroke_color: #4BACC6
+role:
+  # big:
+  #   font_size: $base_font_size_large
+  # small:
+  #   font_size: $base_font_size_small
+  # smaller:
+  #   font_size: $base_font_size_small * 0.8
+  # tiny:
+  #   font_size: $base_font_size_small * 0.5
+  # red:
+  #   font_color: #ff0000
+  # green:
+  #   font_color: #00aa00
+  # blue:
+  #   font_color: #0000ff
+  cyan:
+    font_color: #4BACC6
+  # pink:
+  #   font_color: #cc00cc
+  # brown:
+  #   font_color: #A0522D 

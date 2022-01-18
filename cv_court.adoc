@@ -1,0 +1,51 @@
+:doctype: book
+:imagesdir: ./images
+:nofooter:
+
+Eric Terrien - Expert Technique BI:: Adresse +
+téléphone +
+\email +
+image:gh.png[20,20] | github.com/EricTerrien/cv
+
+[#work-experience]
+=== [blue]#Expériences professionnelles#
+'''
+[horizontal]
+2021  SQLI:: **Responsable Technique de Département** : 90 projets et 50 collaborateurs  +
+__Management des phases de réalisation, Suivi Qualité, Animation des équipes, Formation et Capitalisation__
+2019  SQLI:: **Expert Technique** : Mise en place d'une solution de reporting  +
+__Infrastructure, Définition du produit et développement__
+2016  SQLI:: **Expert Technique** : SRE/DBA et Animation de la Direction Technique  +
+__Staffing, Reporting, Gestion des compétences, Avant-ventes__
+__Gestion d'un parc de bases de données Oracle, de serveurs SAP BO, des outils de la PIC, Dockerisation des projets__
+2015  SQLI:: **Développeur** : TMA d'une application .NET, SAP BO et Oracle +
+__TMA Corrective et évolutive, Déploiement automatisé de l'infrastructure, Administration de la plateforme__
+2008  ATOS:: **Développeur** : TMA de plusieurs applications BI +
+__Spécifications, Développement, Gestion de projets, Atelier client, Administration de plateformes__
+
+[#it-skills]
+=== [blue]#Compétences#
+'''
+[horizontal]
+Principales: :: 
+Langages : __SQL, PL/SQL, Shell, Ansible__ +
+BI : __SAP Business Objects, IBM Cognos & Datastage, Power BI__ +
+DATA : __Grafana, Prometheus, Loki, ELK, Dataiku__ +
+CI/CD : __Gitlab, Jenkins, Nexus, Sonar__ +
+SGBDR : __Oracle, MySQL, PostgreSQL, SQLServer__
+
+Autres : :: 
+O.S. : __Ubuntu, Centos, RedHat, Windows__ +
+Virtualisation : __Docker, Openstack, Kubernetes__ +
+Langues : __Français (natif), Anglais (professionnel), Japonais et Portugais (débutant)__
+
+[#academic-record]
+=== Formation
+'''
+[horizontal]
+2004–2008:: **__ESIAL__** : BAC+5 - Diplôme d'ingéneur - Nancy +
+
+[#personal-interests]
+=== Loisirs
+'''
+Badminton, running, natation, jeux vidéo et cinéma

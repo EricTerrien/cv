@@ -1,0 +1,30 @@
+= CV Eric Terrien
+
+== Présentation
+
+* Projet comprenant les sources de mon CV au format asciidoc
+** cv_court : CV au format A4
+** cv_long : CV avec des informations complémentaires sur les missions
+
+== Modification des informations personnelles
+
+* Modification de l'adresse
+* Modification du numéro de téléphone
+* Modification de l'email
+
+== Génération en PDF
+
+* Prérequis : Docker
+* Génération du cv court
+
+[source,bash]
+----
+docker run --rm -v /home/eterrien/Git/perso/article/cv:/document/ asciidoctor/docker-asciidoctor asciidoctor-pdf -a pdf-style=eric -a pdf-stylesdir=/document/themes -a pdf-fontsdir=/document/fonts /document/cv_court.adoc
+----
+
+* Génération du cv long
+
+[source,bash]
+----
+docker run --rm -v /home/eterrien/Git/perso/article/cv:/document/ asciidoctor/docker-asciidoctor asciidoctor-pdf -a pdf-style=eric -a pdf-stylesdir=/document/themes -a pdf-fontsdir=/document/fonts /document/cv_long.adoc
+----
