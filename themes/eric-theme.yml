@@ -26,9 +26,9 @@ base:
   font:
     color: #000000
     family: Noto Serif
-    size: 9
-    size_large: 9.5
-    size_small: 7
+    size: 6
+    size_large: 6.5
+    size_small: 5
 heading:
   font:
     color: #4BACC6

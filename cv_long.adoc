@@ -2,44 +2,55 @@
 :imagesdir: ./images
 :nofooter:
 
-Eric Terrien - Expert Technique BI:: Adresse +
-téléphone +
-\email +
-image:gh.png[20,20] | github.com/EricTerrien/cv
+Eric Terrien - Expert Technique Data:: 
+Adresse - téléphone - \email - github.com/EricTerrien/cv 
+//image:gh.png[20,20] | 
 
 [#work-experience]
 === Expériences professionnelles
 '''
 [horizontal]
-2021  SQLI:: **Responsable Technique de Département** : Client RTE, 90 projets et 50 collaborateurs  +
+2022  SQLI:: **Expert Technique** : _AIRBUS_ - Réalisation de dashboard Qlik pour Data Driven Digital Services +
+__Conception, Développement__
+Environnement : Qlik Sense
+2022  SQLI:: **Expert Technique** : _GLS_ - Prototypage sur l'utilisation de LOBSTER +
+__Conception, Réalisation__
+Environnement : Lobster, Kafka
+2022  SQLI:: **Expert Technique** : _SANOFI_ - Migration SQLServer vers PostgreSQL +
+__Conception, Architecture, Réalisation et Migration des procédures stockées__
+Environnement : SQLServer, PostgreSQL
+2021  SQLI:: **Responsable Technique de Département** : _RTE_ - 90 projets et 50 collaborateurs  +
 __Management des phases de réalisation, Suivi Qualité, Animation des équipes, Formation et Capitalisation__ +
 Environnement : Gitlab, Jenkins, Nexus, Sonar, Docker, Oracle
-2019  SQLI:: **Expert Technique** : Mise en place d'une solution de reporting  +
+2020  SQLI:: **Expert Technique** : _Korian_ - Intégration de Power BI Embedded dans un intranet +
+__Conception, Architecture et Réalisation__
+Environnement : Azure, Power BI, JS
+2019  SQLI:: **Expert Technique** : _SQLI_ - Mise en place d'une solution de reporting sur le suivi des données de staffing, sécurité, suivi de la qualité et infrastructure +
 __Infrastructure, Définition du produit et développement__ +
 Environnement : Openstack, Docker, Ansible, Grafana, Prometheus, ELK, MySQL, SQL
-2018  SQLI:: **Expert Technique** : Animation de la Direction Technique  +
-__Staffing, Reporting, Gestion des compétences, Avant-ventes__ +
+2018  SQLI:: **Expert Technique** : _SQLI_ - Animation de la Direction Technique +
+__Staffing, Reporting, Gestion des compétences, Avant-ventes__
 Environnement : Gitlab, Jenkins, Sonar, Grafana, MySQL
-2016  SQLI:: **Expert Technique** : SRE/DBA +
-__Gestion d'un parc de bases de données Oracle, de serveurs SAP BO, des outils de la PIC, Dockerisation des projets__ +
+2016  SQLI:: **Expert Technique** : _SQLI_ - SRE/DBA +
+__Gestion d'un parc de bases de données Oracle, de serveurs SAP BO, des outils de la PIC, Dockerisation des projets__
 Environnement : Gitlab, Jenkins, Nexus, Sonar, Oracle, SAP BO 3.1 et 4.2
-2015  SQLI:: **Développeur** : Client RTE, TMA d'une application .NET, SAP BO et Oracle +
+2015  SQLI:: **Développeur** : _RTE_ - TMA d'une application .NET, SAP BO et Oracle +
 __TMA Corrective et évolutive, Déploiement automatisé de l'infrastructure, Administration de la plateforme__ +
 Environnement : Gitlab, Jenkins, Oracle, Docker, Shell, SAP BO 3.1 et 4.2
-2012  ATOS:: **Développeur** : Client SNCF, Conception et réalisation d'une application sur la maintenance des voies +
+2012  ATOS:: **Développeur** : _SNCF_ - Conception et réalisation d'une application sur la maintenance des voies +
 __Spécifications, Développement, Gestion de projets, Atelier client__ +
 Environnement : IBM Cognos 10.2 et Datastage 7.5 et 8.1, Oracle 
-2012  ATOS:: **Développeur** : Client SPIE, TMA d'un outil d'analyse financière +
+2012  ATOS:: **Développeur** : _SPIE_ - TMA d'un outil d'analyse financière +
 __Spécifications, Développement__ +
 Environnement : Cognos TM1
-2012  ATOS:: **Expert Technique** : Client Renault, Direction Technique du parc applicatif SAP BO +
+2012  ATOS:: **Expert Technique** : _Renault_ - Direction Technique du parc applicatif SAP BO +
 __Administration de la plateforme, Aide aux développements__ +
 Environnement : SAP BO XI R2 et 3.1, Oracle
-2011  ATOS:: **Développeur** : Client Renault, Conception de l'outil de migration du LMS +
+2011  ATOS:: **Développeur** : _Renault_ - Conception de l'outil de migration du LMS +
 __Spécifications, Développement, Atelier client__ +
 Environnement : LMS SABA 3.5 et 5.5, SAP BO XI R2, Oracle, PL/SQL
-2008  ATOS:: **Développeur** : Client Renault, Réalisation d'un outil de restitution pour les forces de ventes +
-__Conception et développement de l’outil de reporting, TMA de l’ensemble du parc applicatif multi-technologique du périmètre  __ +
+2008  ATOS:: **Développeur** : _Renault_ - Réalisation d'un outil de restitution pour les forces de ventes +
+__Conception et développement de l'outil de reporting, TMA de l'ensemble du parc applicatif multi-technologique du périmètre  __ +
 Environnement : Shell, Oracle, SAP BO XI R2, Datastage 7.5, Siebel
 
 [#it-skills]
@@ -48,7 +59,7 @@ Environnement : Shell, Oracle, SAP BO XI R2, Datastage 7.5, Siebel
 [horizontal]
 Principales: :: 
 Langages : __SQL, PL/SQL, Shell, Ansible__ +
-BI : __SAP Business Objects, IBM Cognos & Datastage, Power BI__ +
+BI : __SAP Business Objects, IBM Cognos & Datastage, Power BI, Qlik__ +
 DATA : __Grafana, Prometheus, Loki, ELK, Dataiku__ +
 CI/CD : __Gitlab, Jenkins, Nexus, Sonar__ +
 SGBDR : __Oracle, MySQL, PostgreSQL, SQLServer__
@@ -58,14 +69,5 @@ O.S. : __Ubuntu, Centos, RedHat, Windows__ +
 Virtualisation : __Docker, Openstack, Kubernetes__
 Langues : __Français (natif), Anglais (professionnel), Japonais et Portugais (débutant)__
 
-[#academic-record]
-=== Formation
-'''
-[horizontal]
-2004–2008:: **__ESIAL__** : BAC+5 - Diplôme d'ingéneur - Nancy +
-
-
-[#personal-interests]
-=== Loisirs
-'''
-Badminton, running, natation, jeux vidéo et cinéma
+*Formation* : 2004-2008 *ESIAL* : BAC+5 - Diplôme d'ingéneur - Nancy +
+*Loisirs* : Badminton, running, natation, jeux vidéo et cinéma

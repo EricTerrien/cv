@@ -2,26 +2,41 @@
 :imagesdir: ./images
 :nofooter:
 
-Eric Terrien - Expert Technique BI:: Adresse +
-téléphone +
-\email +
-image:gh.png[20,20] | github.com/EricTerrien/cv
+Eric Terrien - Expert Technique Data:: 
+Adresse - téléphone - \email - github.com/EricTerrien/cv 
+//image:gh.png[20,20] | 
+
 
 [#work-experience]
 === [blue]#Expériences professionnelles#
 '''
 [horizontal]
-2021  SQLI:: **Responsable Technique de Département** : 90 projets et 50 collaborateurs  +
+2022  SQLI:: **Expert Technique** : _AIRBUS_ - Réalisation de dashboard Qlik pour Data Driven Digital Services +
+__Conception, Développement__
+2022  SQLI:: **Expert Technique** : _GLS_ - Prototypage sur l'utilisation de LOBSTER +
+__Conception, Développement__
+2022  SQLI:: **Expert Technique** : _SANOFI_ - Migration SQLServer vers PostgreSQL +
+__Conception, Architecture, Développement des procédures stockées__
+2021  SQLI:: **Responsable Technique de Département** : _RTE_ - 90 projets et 50 collaborateurs  +
 __Management des phases de réalisation, Suivi Qualité, Animation des équipes, Formation et Capitalisation__
-2019  SQLI:: **Expert Technique** : Mise en place d'une solution de reporting  +
+2020  SQLI:: **Expert Technique** : _Korian_ - Intégration de Power BI Embedded dans un intranet +
+__Conception, Architecture et Développement__
+2019  SQLI:: **Expert Technique** : _SQLI_ - Mise en place d'une solution de reporting sur le suivi des données de staffing, sécurité, suivi de la qualité et infrastructure +
 __Infrastructure, Définition du produit et développement__
-2016  SQLI:: **Expert Technique** : SRE/DBA et Animation de la Direction Technique  +
+2018  SQLI:: **Expert Technique** : _SQLI_ - Animation de la Direction Technique +
 __Staffing, Reporting, Gestion des compétences, Avant-ventes__
+2016  SQLI:: **Expert Technique** : _SQLI_ - SRE/DBA +
 __Gestion d'un parc de bases de données Oracle, de serveurs SAP BO, des outils de la PIC, Dockerisation des projets__
-2015  SQLI:: **Développeur** : TMA d'une application .NET, SAP BO et Oracle +
+2015  SQLI:: **Développeur** : _RTE_ - TMA d'une application .NET, SAP BO et Oracle +
 __TMA Corrective et évolutive, Déploiement automatisé de l'infrastructure, Administration de la plateforme__
-2008  ATOS:: **Développeur** : TMA de plusieurs applications BI +
-__Spécifications, Développement, Gestion de projets, Atelier client, Administration de plateformes__
+2012  ATOS:: **Développeur** : _SNCF_ - Conception et développement d'une application sur la maintenance des voies +
+__Spécifications, Développement, Gestion de projets, Atelier client__ +
+2012  ATOS:: **Développeur** : _SPIE_ - TMA d'un outil d'analyse financière +
+__Spécifications, Développement__ +
+2012  ATOS:: **Expert Technique** : _Renault_ - Direction Technique du parc applicatif SAP BO +
+__Administration de la plateforme, Aide aux développements__ +
+2008  ATOS:: **Développeur** : _Renault_ - Réalisation d'un outil de restitution pour les forces de ventes et Conception de l'outil de migration du LMS +
+__Conception et développement de l'outil de reporting, TMA de l'ensemble du parc applicatif multi-technologique du périmètre__
 
 [#it-skills]
 === [blue]#Compétences#
@@ -29,7 +44,7 @@ __Spécifications, Développement, Gestion de projets, Atelier client, Administr
 [horizontal]
 Principales: :: 
 Langages : __SQL, PL/SQL, Shell, Ansible__ +
-BI : __SAP Business Objects, IBM Cognos & Datastage, Power BI__ +
+BI : __SAP Business Objects, IBM Cognos & Datastage, Power BI, Qlik__ +
 DATA : __Grafana, Prometheus, Loki, ELK, Dataiku__ +
 CI/CD : __Gitlab, Jenkins, Nexus, Sonar__ +
 SGBDR : __Oracle, MySQL, PostgreSQL, SQLServer__
@@ -39,13 +54,5 @@ O.S. : __Ubuntu, Centos, RedHat, Windows__ +
 Virtualisation : __Docker, Openstack, Kubernetes__ +
 Langues : __Français (natif), Anglais (professionnel), Japonais et Portugais (débutant)__
 
-[#academic-record]
-=== Formation
-'''
-[horizontal]
-2004–2008:: **__ESIAL__** : BAC+5 - Diplôme d'ingéneur - Nancy +
-
-[#personal-interests]
-=== Loisirs
-'''
-Badminton, running, natation, jeux vidéo et cinéma
+*Formation* : 2004-2008 *ESIAL* : BAC+5 - Diplôme d'ingéneur - Nancy +
+*Loisirs* : Badminton, running, natation, jeux vidéo et cinéma
