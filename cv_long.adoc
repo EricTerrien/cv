@@ -11,47 +11,74 @@ Adresse - téléphone - \email - github.com/EricTerrien/cv
 '''
 [horizontal]
 2022  SQLI:: **Expert Technique** : _AIRBUS_ - Réalisation de dashboard Qlik pour Data Driven Digital Services +
-__Conception, Développement__
-Environnement : Qlik Sense
-2022  SQLI:: **Expert Technique** : _GLS_ - Prototypage sur l'utilisation de LOBSTER +
-__Conception, Réalisation__
-Environnement : Lobster, Kafka
+* Contexte : __Développement d'une application permettant de suivre l'activité Cliente (entreprise) d'Airbus au travers de la data concernant les algorithmes ML d'AIRBUS et de ses fournisseurs__
+* Missions : __Ateliers client en Anglais/Français, Spécifications techniques, Mise en place de l'ingénierie logicielle, Modélisation, Data Vizualisation __
+* Environnement : __Qlik Sense__
+
+2022  SQLI:: **Expert Technique** : _GLS_ - Prototypage de l'outil LOBSTER +
+* Contexte : __Etude de l'outil LOBSTER DATA pour le client GLS pour l'orchestration de ses flux de données dans le SI dans le but de monitorer, de gérer la reprise sur incident et automatiser la mise en place de nouveaux fluxs__
+* Missions : __Ateliers client/éditeur en Anglais/Français, Auto-formation sur l'outil, Définition des uses-cases, Conception de profils, Restitution sur les capacités de l'outil__
+* Environnement : __Lobster, Kafka__
+
 2022  SQLI:: **Expert Technique** : _SANOFI_ - Migration SQLServer vers PostgreSQL +
-__Conception, Architecture, Réalisation et Migration des procédures stockées__
-Environnement : SQLServer, PostgreSQL
+* Contexte : __Migration technique (Windows Server et Base de données) de l'application .NET générant les étiquettes des produits du groupe __
+* Missions : __Mise en place de l'ingénierie logicielle, Développement des scripts de montée de version et des procédures stockées, Support équipe, Atelier Architecture/DevOps Team en Anglais, Mise en place du pipeline de BUILD/DEPLOY__
+* Environnement : __SQLServer, PostgreSQL, Azure, AWX Tower/Ansible__
+
 2021  SQLI:: **Responsable Technique de Département** : _RTE_ - 90 projets et 50 collaborateurs  +
-__Management des phases de réalisation, Suivi Qualité, Animation des équipes, Formation et Capitalisation__ +
-Environnement : Gitlab, Jenkins, Nexus, Sonar, Docker, Oracle
-2020  SQLI:: **Expert Technique** : _Korian_ - Intégration de Power BI Embedded dans un intranet +
-__Conception, Architecture et Réalisation__
-Environnement : Azure, Power BI, JS
+* Contexte : __LE CDS RTE de SQLI nécessite d'avoir un expert technique transverse sur l'ensemble de périmètre pour suivre les collaborateurs et les chantiers techniques__
+* Missions : __Management des phases de réalisation, Suivi Qualité, Animation des équipes, Formation et Capitalisation__
+* Environnement : __Gitlab, Jenkins, Nexus, Sonar, Docker, Oracle, Openstack, Nutanix__
+
+2020  SQLI:: **Expert Technique** : _KORIAN_ - Intégration de Power BI Embedded dans un intranet +
+* Contexte : __Les entreprises LUMAPPS et KORIAN ont sollicitées SQLI pour effectuer un POC sur l'intégration dans l'intranet LUMPAPPS de visuel Power BI en utilisant la fonctionnalité Power BI Embedded__
+* Missions : __Atelier Client, Configuration Azure et PowerBI, Développement du POC en utilisant du JS, Restituion Client__
+* Environnement : __Azure, Power BI, JS__
+
 2019  SQLI:: **Expert Technique** : _SQLI_ - Mise en place d'une solution de reporting sur le suivi des données de staffing, sécurité, suivi de la qualité et infrastructure +
-__Infrastructure, Définition du produit et développement__ +
-Environnement : Openstack, Docker, Ansible, Grafana, Prometheus, ELK, MySQL, SQL
+* Contexte : __Différents besoins de management et de suivi de plateforme/collaborateurs ont émergé lors du rapprochement avec le CDS du Maroc, un outil d'agrégation de KPI a été nécessaire pour suivre l'activité des 2 sites__
+* Missions : __Mise en place de l'Inrastructure AS Code, Définition du produit et développement des fluxs et des rapports__
+* Environnement : __Openstack, Docker, Ansible, Grafana, Prometheus, ELK, MySQL, SQL__
+
 2018  SQLI:: **Expert Technique** : _SQLI_ - Animation de la Direction Technique +
-__Staffing, Reporting, Gestion des compétences, Avant-ventes__
-Environnement : Gitlab, Jenkins, Sonar, Grafana, MySQL
+* Contexte : __La cellule expertise auto-organisée s'est transformée en Direction Technique et cela a nécessité qu'un collaborateur anime les experts et rejoigne le comité exécutif de SQLI Bordeaux__
+* Missions : __Staffing, Reporting, Gestion des compétences, Avant-ventes__
+* Environnement : __Gitlab, Jenkins, Sonar, Grafana, MySQL__
+
 2016  SQLI:: **Expert Technique** : _SQLI_ - SRE/DBA +
-__Gestion d'un parc de bases de données Oracle, de serveurs SAP BO, des outils de la PIC, Dockerisation des projets__
-Environnement : Gitlab, Jenkins, Nexus, Sonar, Oracle, SAP BO 3.1 et 4.2
+* Contexte : __Intégration dans la cellule expertise de SQLI, appui auprès des équipes sur des sujets transverses__
+* Missions : __Gestion d'un parc de bases de données Oracle, de serveurs SAP BO, des outils de la PIC, Dockerisation des projets__
+* Environnement : __Gitlab, Jenkins, Nexus, Sonar, Oracle, SAP BO 3.1 et 4.2__
+
 2015  SQLI:: **Développeur** : _RTE_ - TMA d'une application .NET, SAP BO et Oracle +
-__TMA Corrective et évolutive, Déploiement automatisé de l'infrastructure, Administration de la plateforme__ +
-Environnement : Gitlab, Jenkins, Oracle, Docker, Shell, SAP BO 3.1 et 4.2
+* Contexte : __Projet client sur la maintenance des lignes aériennes et souterraines pour RTE, regroupant 6 outils et la gestion asynchronne des données tablettes__
+* Missions : __TMA Corrective et évolutive, Déploiement automatisé de l'infrastructure, Administration de la plateforme__
+* Environnement : Gitlab, Jenkins, Oracle, Docker, Shell, SAP BO 3.1 et 4.2
+
 2012  ATOS:: **Développeur** : _SNCF_ - Conception et réalisation d'une application sur la maintenance des voies +
-__Spécifications, Développement, Gestion de projets, Atelier client__ +
-Environnement : IBM Cognos 10.2 et Datastage 7.5 et 8.1, Oracle 
+* Contexte : __Projet client sur la projection de l'ensemble des outils de maintenances sur les milliers de kilomètres de voies du réseau ferré de France__
+* Missions : __Spécifications, Développement, Gestion de projets, Atelier client__
+* Environnement : IBM Cognos 10.2 et Datastage 7.5 et 8.1, Oracle
+
 2012  ATOS:: **Développeur** : _SPIE_ - TMA d'un outil d'analyse financière +
-__Spécifications, Développement__ +
-Environnement : Cognos TM1
+* Contexte : __Projet client sur l'agrégation des données financières avant l'introduction en bourse__
+* Missions : __Spécifications, Développement__
+* Environnement : IBM Cognos TM1
+
 2012  ATOS:: **Expert Technique** : _Renault_ - Direction Technique du parc applicatif SAP BO +
-__Administration de la plateforme, Aide aux développements__ +
-Environnement : SAP BO XI R2 et 3.1, Oracle
+* Contexte : __Intégration dans la direction technique de Renault pour renforcer son équipe d'administration de la plateforme Business Object lors de la phase de migration de l'ensemble de son parc applicatif__
+* Missions : __Administration de la plateforme, Aide aux développements__
+* Environnement : SAP BO XI R2 et 3.1, Oracle
+
 2011  ATOS:: **Développeur** : _Renault_ - Conception de l'outil de migration du LMS +
-__Spécifications, Développement, Atelier client__ +
-Environnement : LMS SABA 3.5 et 5.5, SAP BO XI R2, Oracle, PL/SQL
-2008  ATOS:: **Développeur** : _Renault_ - Réalisation d'un outil de restitution pour les forces de ventes +
-__Conception et développement de l'outil de reporting, TMA de l'ensemble du parc applicatif multi-technologique du périmètre  __ +
-Environnement : Shell, Oracle, SAP BO XI R2, Datastage 7.5, Siebel
+* Contexte : __Projet de montée de version de son Learning Management System pour préparer le passage au véhicule électrique pour l'ensemble des concessionnaires__
+* Missions : __Spécifications, Développement, Atelier client__
+* Environnement : LMS SABA 3.5 et 5.5, SAP BO XI R2, Oracle, PL/SQL
+
+2008  ATOS:: **Développeur** : _Renault_ - Réalisation d'un outil de restitution pour la force de ventes +
+* Contexte : __Projet d'agrégation de données de l'ensemble des applications gérant la force des ventes de Renault__
+* Missions : __Conception et développement de l'outil de reporting, TMA de l'ensemble du parc applicatif multi-technologique du périmètre__
+* Environnement : Shell, Oracle, SAP BO XI R2, Datastage 7.5, Siebel
 
 [#it-skills]
 === Compétences

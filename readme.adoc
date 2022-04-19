@@ -19,12 +19,12 @@
 
 [source,bash]
 ----
-docker run --rm -v /chemin/cv:/document/ asciidoctor/docker-asciidoctor asciidoctor-pdf -a pdf-style=eric -a pdf-stylesdir=/document/themes -a pdf-fontsdir=/document/fonts /document/cv_court.adoc
+docker run --rm -v /chemin/cv:/document/ asciidoctor/docker-asciidoctor:1.16 asciidoctor-pdf -a pdf-style=eric -a pdf-stylesdir=/document/themes -a pdf-fontsdir=/document/fonts /document/cv_court.adoc
 ----
 
 * Génération du cv long
 
 [source,bash]
 ----
-docker run --rm -v /chemin/cv:/document/ asciidoctor/docker-asciidoctor asciidoctor-pdf -a pdf-style=eric -a pdf-stylesdir=/document/themes -a pdf-fontsdir=/document/fonts /document/cv_long.adoc
+docker run --rm -v /chemin/cv:/document/ asciidoctor/docker-asciidoctor:1.16 asciidoctor-pdf -a pdf-style=eric -a pdf-stylesdir=/document/themes -a pdf-fontsdir=/document/fonts /document/cv_long.adoc
 ----
